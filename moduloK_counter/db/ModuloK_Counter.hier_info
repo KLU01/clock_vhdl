@@ -1,0 +1,32 @@
+|mod6
+clock => modk:bit6.clock
+reset_k => modk:bit6.reset_k
+Q[0] <= modk:bit6.Q[0]
+Q[1] <= modk:bit6.Q[1]
+Q[2] <= modk:bit6.Q[2]
+Q[3] <= modk:bit6.Q[3]
+Q[4] <= modk:bit6.Q[4]
+Q[5] <= modk:bit6.Q[5]
+
+
+|mod6|modk:bit6
+clock => v[0].CLK
+clock => v[1].CLK
+clock => v[2].CLK
+clock => v[3].CLK
+clock => v[4].CLK
+clock => v[5].CLK
+reset_k => v[0].ACLR
+reset_k => v[1].ACLR
+reset_k => v[2].ACLR
+reset_k => v[3].ACLR
+reset_k => v[4].ACLR
+reset_k => v[5].ACLR
+Q[0] <= v[0].DB_MAX_OUTPUT_PORT_TYPE
+Q[1] <= v[1].DB_MAX_OUTPUT_PORT_TYPE
+Q[2] <= v[2].DB_MAX_OUTPUT_PORT_TYPE
+Q[3] <= v[3].DB_MAX_OUTPUT_PORT_TYPE
+Q[4] <= v[4].DB_MAX_OUTPUT_PORT_TYPE
+Q[5] <= v[5].DB_MAX_OUTPUT_PORT_TYPE
+
+
