@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Kelly Lu\Desktop\CS211\Project Files\P11_Clocks\PART1_ModuloK_Counter\simulation\qsim
+vmod6
+Z1 !s100 0dRk@S[Vo:fV]OkFFI1fJ2
+Z2 IECUcDVBd_Mi2^L7>;GeSI1
+Z3 VmCiilXXok]269^Sn?<e`C0
+Z4 dC:\Users\Kelly Lu\Desktop\CS211\Project Files\P11_Clocks\PART1_ModuloK_Counter\simulation\qsim
+Z5 w1481559043
+Z6 8ModuloK_Counter.vo
+Z7 FModuloK_Counter.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|ModuloK_Counter.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1481559044.940000
+Z12 !s107 ModuloK_Counter.vo|
+!s101 -O0
+vmod6_vlg_check_tst
+!i10b 1
+Z13 !s100 _W[<A8a[>AzNkOJF=]YMQ1
+Z14 I10PA?:PNB^FQ[3HAT^mH93
+Z15 Vc=GFa7f378iii?ZTTMV>]1
+R4
+Z16 w1481559042
+Z17 8ModuloK_Counter.vt
+Z18 FModuloK_Counter.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z19 !s108 1481559045.018000
+Z20 !s107 ModuloK_Counter.vt|
+Z21 !s90 -work|work|ModuloK_Counter.vt|
+!s101 -O0
+R10
+vmod6_vlg_sample_tst
+!i10b 1
+Z22 !s100 [kKSR?1@6Hg@S5<]iz]Yi0
+Z23 If?T?nACzEo43I[D<eLC^Z3
+Z24 V^YZ=]mPEk?nMP:CSV6TZI2
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vmod6_vlg_vec_tst
+!i10b 1
+Z25 !s100 nH[30`8mZ0Q;<iFfgX[O72
+Z26 IdYoTXAW1Abod1^9YS48PX2
+Z27 V:]fCz8nBU7VCI>Fi[DbgA1
+R4
+R16
+R17
+R18
+Z28 L0 243
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
